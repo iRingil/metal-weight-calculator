@@ -18,22 +18,22 @@
     <a href="https://github.com/psf/black">
         <img alt="Code style: black" src="https://img.shields.io/badge/code%20style-black-black.svg">
     </a>
-    <a href="https://github.com/rin-gil/MetalWeightCalculator/actions/workflows/tests.yml">
-        <img src="https://github.com/rin-gil/MetalWeightCalculator/actions/workflows/tests.yml/badge.svg" alt="Code tests">
+    <a href="https://github.com/iRingil/metal-weight-calculator/actions/workflows/tests.yml">
+        <img src="https://github.com/iRingil/metal-weight-calculator/actions/workflows/tests.yml/badge.svg" alt="Code tests">
     </a>
-    <a href="https://github.com/rin-gil/MetalWeightCalculator/actions/workflows/codeql.yml">
-        <img src="https://github.com/rin-gil/MetalWeightCalculator/actions/workflows/codeql.yml/badge.svg" alt="Code tests">
+    <a href="https://github.com/iRingil/metal-weight-calculator/actions/workflows/codeql.yml">
+        <img src="https://github.com/iRingil/metal-weight-calculator/actions/workflows/codeql.yml/badge.svg" alt="Code tests">
     </a>
-    <a href="https://github.com/rin-gil/MetalWeightCalculator/blob/master/LICENCE">
+    <a href="https://github.com/iRingil/metal-weight-calculator/blob/master/LICENCE">
         <img src="https://img.shields.io/badge/licence-MIT-success" alt="MIT licence">
     </a>
 </p>
 
 <p align="right">
-    <a href="https://github.com/rin-gil/MetalWeightCalculator/blob/master/README.md">
-        <img src="https://raw.githubusercontent.com/rin-gil/rin-gil/main/assets/img/icons/flags/united-kingdom_24x24.png" alt="En"></a>
-    <a href="https://github.com/rin-gil/MetalWeightCalculator/blob/master/README.ua.md">
-        <img src="https://raw.githubusercontent.com/rin-gil/rin-gil/main/assets/img/icons/flags/ukraine_24x24.png" alt="Ua">
+    <a href="https://github.com/iRingil/metal-weight-calculator/blob/master/README.md">
+        <img src=".github/assets/united-kingdom_24x24.png" alt="En"></a>
+    <a href="https://github.com/iRingil/metal-weight-calculator/blob/master/README.ua.md">
+        <img src=".github/assets/ukraine_24x24.png" alt="Ua">
     </a>
 </p>
 
@@ -44,7 +44,7 @@
 ### Установка
 
 ```
-git clone https://github.com/rin-gil/MetalWeightCalculator.git
+git clone https://github.com/iRingil/metal-weight-calculator.git
 cd MetalWeightCalculator
 python3 -m venv venv
 source venv/bin/activate
@@ -65,8 +65,8 @@ mv .env.dist .env
 
 ### Разработчики
 
-* [Ringil](https://github.com/rin-gil)
+* [Ringil](https://github.com/iRingil)
 
 ### Лицензия
 
-Проект Калькулятор веса металла распространяется по лицензии [MIT](https://github.com/rin-gil/MetalWeightCalculator/blob/master/LICENCE)
+Проект Калькулятор веса металла распространяется по лицензии [MIT](https://github.com/iRingil/metal-weight-calculator/blob/master/LICENCE)
