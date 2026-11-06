@@ -60,7 +60,7 @@ mv .env.dist .env
 ### Screenshots
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/rin-gil/rin-gil/main/assets/img/projects/MetalWeightCalculator/screenshot_en.png" alt="MetalWeightCalculator home screen">
+    <img src=".github/assets/screenshot_en.png" alt="MetalWeightCalculator home screen">
 </p>
 
 ### Developers
